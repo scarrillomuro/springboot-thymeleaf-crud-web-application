@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: springboot-thymeleaf-crud-web-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: net.javaguides.springboot.SpringbootThymeleafCrudWebApplicat
+ ion
+Created-By: Maven Integration for Eclipse
+
